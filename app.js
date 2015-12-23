@@ -16,7 +16,7 @@ var main = function(){
         nextSlide.fadeIn(1000).addClass('active-slide'); //fade in next slide by 800ms;
       }); //end of next arrow command
 
-      $()
+      
 }
 
 $(document).ready(main);
